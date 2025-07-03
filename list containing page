@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>list - HTML tutorial</title>
+</head>
+<body>
+    <h1> lists in html</h1>
+    <h2>steps to bak a cake</h2>
+    <ol>
+        <li> preheat the oven is 175'c.</li>
+        <li> mix the dry ingrdient.</li>
+        <li>whisk the eggs, milk, chocolate.</li>
+        <li>combine dry and wet ingredient</li>
+        <li> pour tha batter into the pan and bake 30 mintues</li>
+        <li> let the cake cool before serving</li>
+    </ol>
+    <ul>
+        <li>milk</li>
+        <li>chocolate</li>
+        <li>eggs</li>
+        <li>butter</li>
+    </ul>
+    <h1> programming languages</h1>
+    <dl>
+      <dt> python</dt>
+      <dd> this is hight level interpreted programming language</dd>
+    </dl>
+</body>
+</html>
